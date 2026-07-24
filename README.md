@@ -1,5 +1,4 @@
 # Ola-Identify-the-trends-and-ride-cancellation-Excel-SQL-PowerBI
-#Project Overview
 #My project is Ola Ride Cancellation Analysis. I analyzed around 100,000 ride booking records using Excel, PostgreSQL, and Power BI. The main objective was to identify why rides are cancelled and discover booking trends. I cleaned the data, analyzed it with SQL, and built an interactive Power BI dashboard with five pages: 
 Overall, Vehicle Type, Revenue, Cancellation, and Ratings. The dashboard includes KPIs like total bookings, completed rides, cancellation rate, revenue, and average ratings. From the analysis, I found the main customer and driver cancellation reasons, peak-hour cancellation trends, and vehicle performance. Finally, I provided business recommendations to reduce cancellations and improve customer satisfaction. This project improved my practical skills in SQL, data visualization, and business analysis.
 
